@@ -11,7 +11,7 @@
     <div class="wrapper">
         <header class="header">
             <p>
-                Projekt
+                Projekt, geht es jetzt?
             </p>
         </header>
 
